@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+/* Ocultar as setas em telas menores */
+
+
+
+/* Adicione isso ao seu arquivo CSS ou ao arquivo de estilos globais do seu projeto */
+.square-logo {
+  transition: background-color 0.3s ease;
+
+}
+
+.square-logo:hover {
+  background-color: rgba(0, 0, 0, 0.1); /* Ou qualquer outra cor de sua preferência */
+}
+
